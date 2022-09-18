@@ -1,0 +1,2 @@
+# shibachain
+shibachain token list
