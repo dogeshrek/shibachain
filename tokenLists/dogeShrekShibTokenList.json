@@ -15,7 +15,7 @@
     "tokens": [
         {
             "chainId": 1923,
-            "address": "",
+            "address": "0xedb53CF16F473E481e91d5f2A3Fa79dbB59901Af",
             "decimals": 18,
             "name": "ShibShrek",
             "symbol": "ShibShrek",
