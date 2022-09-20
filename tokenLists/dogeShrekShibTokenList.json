@@ -8,7 +8,7 @@
         "bridge"
     ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     },
@@ -31,5 +31,5 @@
         }
 
     ],
-    "timestamp": "2022-09-18T12:00:00+00:00"
+    "timestamp": "2022-09-20T12:00:00+00:00"
 }
